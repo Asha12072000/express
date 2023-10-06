@@ -47,7 +47,7 @@ for more information.
   * View system supporting 14+ template engines
   * Content negotiation
   * Executable for generating applications quickly
-
+  * Usefull for other's people
 ## Docs & Community
 
   * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
